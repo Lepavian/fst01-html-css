@@ -1,5 +1,9 @@
 .gloogle {
+width: 80%;
 
+.gloogle form input{
+display: block
+margin: 0 auto;
 
-    
+}
 }
